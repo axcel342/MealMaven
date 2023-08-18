@@ -7,3 +7,11 @@ With Mealmaven, customers can easily allocate diets tailored to their specific n
 The app also features push notifications, ensuring users stay motivated and informed about their meal schedules and progress. Additionally, Mealmaven offers an intuitive admin interface, enabling administrators to manage user data, update meal plans, and maintain the app's content effortlessly.
 
 Mealmaven is a comprehensive solution that combines the power of modern technologies with nutritional expertise, empowering users to embark on a healthier lifestyle journey while enjoying a personalized and engaging experience.
+
+# Instructions: 
+
+To run the app open two terminals, one for the server, other for the client
+
+In server terminal run commands: 'cd server' then 'node app.js'
+
+In client terminal run commands: 'cd client' then 'npm start'
