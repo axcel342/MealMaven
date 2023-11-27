@@ -150,7 +150,7 @@ const UserDietPlan = () => {
         <br></br>
         <br></br>
         <br></br>
-        <button type="submitDiet" style={{marginLeft: '0.8rem', marginTop: '-3rem'}}>Submit</button>
+        <button type="submitDiet" id = "submitDietButton" style={{marginLeft: '0.8rem', marginTop: '-3rem'}}>Submit</button>
       </form>
     </div>
   </div>

@@ -84,7 +84,7 @@ const UserNavbar = () => {
                 }
               </li>
               <li className="nav-item">
-                <NavLink className="nav-link" to="/UserLogin">Log Out</NavLink>
+                <NavLink className="nav-link" id = "Logout" to="/UserLogin">Log Out</NavLink>
               </li>
             </ul>
           </div>

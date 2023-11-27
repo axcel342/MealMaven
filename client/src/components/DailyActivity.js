@@ -171,6 +171,7 @@ const DailyActivity = () => {
             border: 'none',
           }}
           type="submit"
+          id = 'daily_activity_button'
           onClick={DailyActivityForm}
         >
           Add
